@@ -10,7 +10,12 @@ namespace ProyectoAulaX
     {
         static void Main(string[] args)
         {
+            int x = 0;
             Console.WriteLine("Hola");
+            if (x>10) 
+            {
+                Console.WriteLine("Good");
+            }
         }
     }
 }

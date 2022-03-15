@@ -1,0 +1,7 @@
+C:\Users\b12s304e27\Documents\ProyectoAulaCodigoLimpio\ProyectoAulaX\ProyectoAulaX\bin\Debug\ProyectoAulaX.exe.config
+C:\Users\b12s304e27\Documents\ProyectoAulaCodigoLimpio\ProyectoAulaX\ProyectoAulaX\bin\Debug\ProyectoAulaX.exe
+C:\Users\b12s304e27\Documents\ProyectoAulaCodigoLimpio\ProyectoAulaX\ProyectoAulaX\bin\Debug\ProyectoAulaX.pdb
+C:\Users\b12s304e27\Documents\ProyectoAulaCodigoLimpio\ProyectoAulaX\ProyectoAulaX\obj\Debug\ProyectoAulaX.csproj.AssemblyReference.cache
+C:\Users\b12s304e27\Documents\ProyectoAulaCodigoLimpio\ProyectoAulaX\ProyectoAulaX\obj\Debug\ProyectoAulaX.csproj.CoreCompileInputs.cache
+C:\Users\b12s304e27\Documents\ProyectoAulaCodigoLimpio\ProyectoAulaX\ProyectoAulaX\obj\Debug\ProyectoAulaX.exe
+C:\Users\b12s304e27\Documents\ProyectoAulaCodigoLimpio\ProyectoAulaX\ProyectoAulaX\obj\Debug\ProyectoAulaX.pdb
